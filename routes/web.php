@@ -75,7 +75,7 @@ Auth::routes();
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/AboutUs', [App\Http\Controllers\AboutUsController::class, 'index'])->name('AboutUs');
 Route::get('/Contact', [App\Http\Controllers\ContactController::class, 'index'])->name('Contact');
-
+//cloud
 Route::get('/mig', function()
 {
     // Call and Artisan command from within your application.

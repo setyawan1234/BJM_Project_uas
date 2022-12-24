@@ -1,5 +1,6 @@
 <!-- ======= Header ======= -->
 <header id="header" class="fixed-top ">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <div class="container d-flex align-items-center">
 
         <h1 class="logo me-auto"><a href="/">BJM</a></h1>
